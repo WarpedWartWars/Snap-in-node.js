@@ -1,0 +1,17 @@
+{
+  "name": "snap4bun",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "skia-canvas": "^1.0.1"
+  },
+  "trustedDependencies": [
+    "skia-canvas"
+  ]
+}

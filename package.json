@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "acorn": "^8.12.0",
+    "node-localstorage": "^3.0.5",
+    "skia-canvas": "^1.0.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
