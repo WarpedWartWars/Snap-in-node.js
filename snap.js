@@ -217,7 +217,7 @@ standardSettings.useVirtualKeyboard = false;
 var winw = 800;
 var winh = 600;
 var win = new Window(winw,winh);
-win.title = "";
+win.title = "Snap! Build Your Own Blocks";
 win.fit = "none";
 var world;
 win.on("setup", e => {
