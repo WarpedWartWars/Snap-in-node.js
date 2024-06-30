@@ -192,7 +192,7 @@ window.pageYOffset = 0;
 const {all} = require("./add_exports.js");
 
 var mo = {};
-const ml = ["morphic", "symbols", "widgets", "blocks", "threads", "objects", "scenes", "gui", "paint", "lists", "byob", "tables", "sketch", "video", "maps", "extensions", "xml", "store", "locale", "cloud", "api", "sha512", "FileSaver.min"]; //for snap 9.2.18
+const ml = ["morphic", "symbols", "widgets", "blocks", "threads", "objects", "scenes", "gui", "paint", "lists", "byob", "tables", "sketch", "video", "maps", "extensions", "xml", "store", "locale", "cloud", "api", "sha512"]; //for snap 9.2.18
 //const ml = ["morphic", "widgets", "blocks", "threads", "objects", "gui", "lists", "byob", "xml", "store", "locale", "cloud", "sha512"]; //for snap4.0beta
 //change this to the folder where the snap js files are, relative to this file
 var sjsfs = "Snap/src/"; //must have slash at the end, unless the files are in the same folder as this file, in which case set this to ""
